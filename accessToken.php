@@ -3,6 +3,7 @@
 $consumerKey = "l4ItDcHHSMrsYxJI8yN9DXIB6BDSJmxEUaMFDZms4l0vojuX";   
 $consumerSecret = "QyQi7PQG9zJNBxG9G3IzJQ1EGUhQMZvypBWR7VuZcfnPUV4p22ko6k5Jqy6ZLqfU";
 
+
 //GENERATE ACCESS TOKEN
 $access_token_url = 'https://sandbox.safaricom.co.ke/oauth/v1/generate?grant_type=client_credentials';
 $headers = ['Content-Type:application/json; charset=utf8'];
